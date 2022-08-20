@@ -1,0 +1,13 @@
+html{
+    color: rgb(237, 47, 47);
+    font-family: "Garamond";
+}
+label{
+    display: inline-block;
+    margin-right: 20px;
+    width: 100px;
+}
+div{
+    background-image: linear-gradient(to bottom right, red, yellow);
+    color: white;
+}
